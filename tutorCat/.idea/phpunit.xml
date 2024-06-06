@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/vendor_s3/ralouphie/getallheaders/tests" />
+        <option value="$PROJECT_DIR$/vendor_s3/guzzlehttp/guzzle/tests" />
+        <option value="$PROJECT_DIR$/vendor_s3/aws/aws-sdk-php/tests" />
+        <option value="$PROJECT_DIR$/vendor_s3/mtdowling/jmespath.php/tests" />
+        <option value="$PROJECT_DIR$/vendor_s3/guzzlehttp/psr7/tests" />
+        <option value="$PROJECT_DIR$/vendor_s3/aws/aws-crt-php/tests" />
+      </list>
+    </option>
+  </component>
+</project>
